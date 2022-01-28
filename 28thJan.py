@@ -23,6 +23,6 @@
 #         d[char] = len(char)
 # print(d)
 
-names = ["apple", "google", "gmail", "yahoo", "gmail", "apple", "gmail", "google"]
-d =
+names = ["apple", "google", "gmail", "yahoo", "gmail", "apple", "gmail", "google]
+
 
